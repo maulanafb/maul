@@ -1,0 +1,24 @@
+{
+  "name": "boston-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.2.4",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^10.16.16",
+    "gsap": "^3.12.4",
+    "locomotive-scroll": "^4.1.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "18.2.0",
+    "sass": "^1.69.5",
+    "swiper": "^9.2.0"
+  }
+}

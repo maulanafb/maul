@@ -1,0 +1,28 @@
+# Ignore node_modules
+node_modules
+
+# Ignore .next directory, which contains build artifacts
+.next
+
+# Ignore the build directory
+out
+
+# Ignore environment variables file
+.env
+
+.next
+
+# Ignore yarn.lock or package-lock.json
+yarn.lock
+package-lock.json
+
+# Ignore development server log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore .DS_Store (macOS system file)
+.DS_Store
+
+# Ignore .env.local (local environment variables)
+.env.local
