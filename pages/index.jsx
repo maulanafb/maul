@@ -14,7 +14,7 @@ import { Fragment, useEffect } from "react";
 // import { useRef, useLayoutEffect } from 'react';
 // import gsap from 'gsap';
 // import { ScrollTrigger } from 'gsap/all';
-import { slideUp } from './animation';
+// import { slideUp } from './animation';
 import { motion } from 'framer-motion';
 import { SmoothScrollProvider } from "@/src/context/SmoothScroll.context";
 const Index = () => {
