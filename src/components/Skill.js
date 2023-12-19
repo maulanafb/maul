@@ -1,38 +1,42 @@
+import Image from "next/image";
 import SectionTitle from "./SectionTitle";
 
+// const skillsData = [
+//   { id: 1, name: "React.Js", icon: "fab fa-react" },
+//   { id: 2, name: "Next.Js", icon: "fab fa-react" },
+//   { id: 3, name: "Express.Js", icon: "fab fa-express" },
+//   { id: 4, name: "Nest.Js", icon: "fab fa-nestjs" },
+//   { id: 5, name: "MongoDb", icon: "fas fa-database" },
+//   { id: 6, name: "MySql", icon: "fas fa-database" },
+// ];
+
 const skillsData = [
-  { id: 1, name: "React.Js", icon: "fab fa-react" },
-  { id: 2, name: "Next.Js", icon: "fab fa-react" },
-  { id: 3, name: "Express.Js", icon: "fab fa-express" },
-  { id: 4, name: "Nest.Js", icon: "fab fa-nestjs" },
-  { id: 5, name: "MongoDb", icon: "fas fa-database" },
-  { id: 6, name: "MySql", icon: "fas fa-database" },
+  { id: 1, name: "React.Js", icon: "/assets/img/ico-react.png" },
+  { id: 2, name: "Next.Js", icon: "/assets/img/nextjs.png" },
+  { id: 3, name: "Express.Js", icon: "/assets/img/express-js.png" },
+  { id: 4, name: "Nest.Js", icon: "/assets/img/ico-nest.png" },
+  { id: 5, name: "Laravel", icon: "/assets/img/ico-lara.png" },
+  { id: 6, name: "PHP", icon: "/assets/img/ico-php.png" },
 ];
 
 const experiencesData = [
   {
     id: 1,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Feb 2022 - Present",
+    designation: "Fullstack Web Developer",
+    company: "Masjid Kapal Munzalan",
   },
   {
     id: 2,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Nov 2021 - Jan 2022",
+    designation: "Fullstack Web Developer",
+    company: "MasjidEnterprise.id",
   },
   {
     id: 3,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
-  },
-  {
-    id: 4,
-    date: "Jan 2021 - Present",
-    designation: "Creative Director",
-    company: "pxdraft Ltd, UK",
+    date: "Part time",
+    designation: "Fullstack Web Developer",
+    company: "AhbabStore",
   },
 ];
 const Skill = () => {
@@ -57,6 +61,8 @@ const Skill = () => {
                     <div className="feature-box-02">
                       <div className="icon">
                         <i className={skill.icon} />
+
+                        <Image src={skill.icon} width={45} alt="icon" height={45} />
                       </div>
                       <h6>{skill.name}</h6>
                     </div>
