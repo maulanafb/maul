@@ -5,7 +5,7 @@ const portfolioData = [
     id: 1,
     title: "Event and LMS Web App",
     subtitle: "Web/PHP",
-    image: "assets/img/Group1.png",
+    image: "assets/img/group1.png",
   },
   {
     id: 2,
