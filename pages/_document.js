@@ -28,7 +28,7 @@ export default function Document() {
           }`}
         </script>
         <meta name="keywords" content="fullstack web developer, pontianak, indonesia, web development, software development, front-end development, back-end development, javascript, reactjs, nodejs, mysql, mongodb, seo" />
-        <meta name="description" content="Fullstack Web Developer in Pontianak, Indonesia, specializing in web development, software development, and SEO optimization. I build fast, reliable, and beautiful websites and applications using cutting-edge technologies." />
+        <meta name="description" content="Fullstack Web Developer in Pontianak, Indonesia, specializing in web development and software development I build fast, reliable, and beautiful websites and applications using cutting-edge technologies." />
         <title>Maulana Fatih Bilqisthi - Fullstack Web Developer | Pontianak, Indonesia</title>
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
         <link href="assets/css/style.css" rel="stylesheet" />
