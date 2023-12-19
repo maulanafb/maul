@@ -3,9 +3,9 @@ import SectionTitle from "./SectionTitle";
 const portfolioData = [
   {
     id: 1,
-    title: "Agency Landing page",
-    subtitle: "Web/WordPress",
-    image: "assets/img/project-1.jpg",
+    title: "Event and LMS Web App",
+    subtitle: "Web/PHP",
+    image: "assets/img/Group1.png",
   },
   {
     id: 2,

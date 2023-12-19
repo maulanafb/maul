@@ -41,7 +41,7 @@ const Contact = () => {
           "service_i642tzl", // service id
           "template_38fodbo", // template id
           mailData,
-          "Q3pccdLZhU-mZT7tQ" // public api
+          "vZA3TIZciGOd01Mkh" // public api
         )
         .then(
           (response) => {
