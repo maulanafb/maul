@@ -7,7 +7,7 @@ const Header = () => {
         <div className="container">
           {/* Brand */}
           <a className="navbar-brand" href="#">
-            <img src="assets/img/logo.svg" className="svg" alt="image" />
+            <img src="assets/img/g15.png" className="svgs" alt="image" />
           </a>
           {/* / */}
           <Accordion>
@@ -30,7 +30,7 @@ const Header = () => {
               <ul className="navbar-nav mx-auto">
                 <li>
                   <a className="nav-link active" href="#home">
-                    <span>Homes</span>
+                    <span>Home</span>
                   </a>
                 </li>
                 {/* <li>
