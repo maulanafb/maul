@@ -30,7 +30,7 @@ const Header = () => {
               <ul className="navbar-nav mx-auto">
                 <li>
                   <a className="nav-link active" href="#home">
-                    <span>Home</span>
+                    <span>Homes</span>
                   </a>
                 </li>
                 {/* <li>

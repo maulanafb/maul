@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }) {
         const LocomotiveScroll = (await import('locomotive-scroll')).default
         const locomotiveScroll = new LocomotiveScroll();
         setTimeout(() => {
-          window.scrollTo(1000, 1000);
+          window.scrollTo(0, 800);
         }, 100);
         setTimeout(() => {
           setIsLoading(false);
