@@ -21,7 +21,7 @@ const Home = () => {
                 Web Developer
               </h1>
               <p>
-                Crafting stylish, modern websites, web services tailored for clients of all sizes. Elevate your digital presence with our expert design and development services
+                Crafting stylish, modern websites, web services tailored for clients of all sizes. Elevate your digital presence with our expert development services
               </p>
               <div className="btn-bar">
                 <a className="px-btn px-btn-theme" href="#contactus">
@@ -32,7 +32,7 @@ const Home = () => {
           </div>
           <div className="col-lg-6">
             <div className="home-image">
-              <img src="assets/img/home-banner.png" alt="image" />
+              <img src="assets/img/banner-foto.png" alt="image" />
             </div>
           </div>
         </div>
