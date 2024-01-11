@@ -20,20 +20,20 @@ const skillsData = [
 ];
 
 const experiencesData = [
+  // {
+  //   id: 1,
+  //   date: "Feb 2022 - Present",
+  //   designation: "Fullstack Web Developer",
+  //   company: "Masjid Kapal Munzalan",
+  // },
+  // {
+  //   id: 2,
+  //   date: "Nov 2021 - Jan 2022",
+  //   designation: "Fullstack Web Developer",
+  //   company: "MasjidEnterprise.id",
+  // },
   {
     id: 1,
-    date: "Feb 2022 - Present",
-    designation: "Fullstack Web Developer",
-    company: "Masjid Kapal Munzalan",
-  },
-  {
-    id: 2,
-    date: "Nov 2021 - Jan 2022",
-    designation: "Fullstack Web Developer",
-    company: "MasjidEnterprise.id",
-  },
-  {
-    id: 3,
     date: "Part time",
     designation: "Fullstack Web Developer",
     company: "AhbabStore",
