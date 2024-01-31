@@ -10,31 +10,31 @@ const portfolioData = [
   },
   {
     id: 2,
-    title: "Agency Landing page",
+    title: "News Website",
     subtitle: "Web/WordPress",
     image: "assets/img/project-2.jpg",
-    url: "https://masjidenterprise.id/"
+    url: "https://salam7langit.com/"
   },
   {
     id: 3,
-    title: "Agency Landing page",
-    subtitle: "Web/WordPress",
-    image: "assets/img/project-3.jpg",
-    url: "https://masjidenterprise.id/"
+    title: "E-Course Web App",
+    subtitle: "Web/NextJs,NestJs",
+    image: "assets/img/e-course-portfolio.png",
+    url: "https://e-course-shadcn.vercel.app/"
   },
   {
     id: 4,
-    title: "Agency Landing page",
-    subtitle: "Web/WordPress",
-    image: "assets/img/project-4.jpg",
-    url: "https://masjidenterprise.id/"
+    title: "Mosque Information System",
+    subtitle: "Web/Laravel",
+    image: "assets/img/portfolio-mosque.png",
+    // url: "https://masjidenterprise.id/"
   },
   {
     id: 5,
-    title: "Agency Landing page",
+    title: "Travel Landing page & Blog",
     subtitle: "Web/WordPress",
-    image: "assets/img/project-5.jpg",
-    url: "https://masjidenterprise.id/"
+    image: "assets/img/travel.png",
+    url: "https://desawisatasungaikupah.com/"
   },
   {
     id: 6,

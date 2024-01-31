@@ -16,7 +16,7 @@ const skillsData = [
   { id: 3, name: "Express.Js", icon: "/assets/img/express-js.png" },
   { id: 4, name: "Nest.Js", icon: "/assets/img/ico-nest.png" },
   { id: 5, name: "Laravel", icon: "/assets/img/ico-lara.png" },
-  { id: 6, name: "PHP", icon: "/assets/img/ico-php.png" },
+  { id: 6, name: "Golang", icon: "/assets/img/golang.png" },
 ];
 
 const experiencesData = [
@@ -26,14 +26,14 @@ const experiencesData = [
   //   designation: "Fullstack Web Developer",
   //   company: "Masjid Kapal Munzalan",
   // },
-  // {
-  //   id: 2,
-  //   date: "Nov 2021 - Jan 2022",
-  //   designation: "Fullstack Web Developer",
-  //   company: "MasjidEnterprise.id",
-  // },
   {
     id: 1,
+    date: "Nov 2021 - Des 2023",
+    designation: "Fullstack Web Developer",
+    company: "MasjidEnterprise.id",
+  },
+  {
+    id: 2,
     date: "Part time",
     designation: "Fullstack Web Developer",
     company: "AhbabStore",
