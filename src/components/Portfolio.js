@@ -12,7 +12,7 @@ const portfolioData = [
     id: 2,
     title: "News Website",
     subtitle: "Web/WordPress",
-    image: "assets/img/project-2.jpg",
+    image: "assets/img/news.png",
     url: "https://salam7langit.com/"
   },
   {
