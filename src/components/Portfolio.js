@@ -6,36 +6,42 @@ const portfolioData = [
     title: "Event and LMS Web App",
     subtitle: "Web/PHP",
     image: "assets/img/group1.png",
+    url: "https://masjidenterprise.id/"
   },
   {
     id: 2,
     title: "Agency Landing page",
     subtitle: "Web/WordPress",
     image: "assets/img/project-2.jpg",
+    url: "https://masjidenterprise.id/"
   },
   {
     id: 3,
     title: "Agency Landing page",
     subtitle: "Web/WordPress",
     image: "assets/img/project-3.jpg",
+    url: "https://masjidenterprise.id/"
   },
   {
     id: 4,
     title: "Agency Landing page",
     subtitle: "Web/WordPress",
     image: "assets/img/project-4.jpg",
+    url: "https://masjidenterprise.id/"
   },
   {
     id: 5,
     title: "Agency Landing page",
     subtitle: "Web/WordPress",
     image: "assets/img/project-5.jpg",
+    url: "https://masjidenterprise.id/"
   },
   {
     id: 6,
     title: "Agency Landing page",
     subtitle: "Web/WordPress",
     image: "assets/img/project-6.jpg",
+    url: "https://masjidenterprise.id/"
   },
 ];
 
@@ -56,7 +62,7 @@ const Portfolio = () => {
                 <div className="portfolio-info">
                   <h6>{portfolio.title}</h6>
                   <span>{portfolio.subtitle}</span>
-                  <a href={portfolio.image} className="gallery-link">
+                  <a href={portfolio.url} target="_blank" className="gallery-links">
                     <i className="fas fa-arrow-right" />
                   </a>
                 </div>
