@@ -17,7 +17,7 @@ const portfolioData = [
   },
   {
     id: 3,
-    title: "E-Course Web App",
+    title: "E-Course Web Applications",
     subtitle: "Web/NextJs,NestJs",
     image: "assets/img/e-course-portfolio.png",
     url: "https://e-course-shadcn.vercel.app/"
@@ -38,10 +38,10 @@ const portfolioData = [
   },
   {
     id: 6,
-    title: "Agency Landing page",
-    subtitle: "Web/WordPress",
+    title: "Landing page",
+    subtitle: "Web/React.JS",
     image: "assets/img/project-6.jpg",
-    url: "https://masjidenterprise.id/"
+    url: "https://brainwave-mfb.vercel.app/"
   },
 ];
 
