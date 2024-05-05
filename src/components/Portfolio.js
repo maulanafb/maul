@@ -40,7 +40,7 @@ const portfolioData = [
     id: 6,
     title: "Landing page",
     subtitle: "Web/React.JS",
-    image: "assets/img/project-6.jpg",
+    image: "assets/img/projek-6.jpg",
     url: "https://brainwave-mfb.vercel.app/"
   },
 ];
